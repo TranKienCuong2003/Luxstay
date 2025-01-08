@@ -20,7 +20,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Luxstay.git
+   git clone https://github.com/TranKienCuong2003/Luxstay.git
    ```
 2. Navigate to the project directory:
    ```bash
